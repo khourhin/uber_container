@@ -1,8 +1,16 @@
 * uber_container					:kornobis:
 ** Workflow
-** <STEPS TO ADD>
-*** TODO <FIRST MILESTONE>				:0.1:	
-    - [ ]
+   
+   The idea here is to aim towards reproducible bioinformatics by
+   creating my first bioinformatic repo using Singularity container
+   for the analysis
+
+** Starting with Singularity
+*** TODO Image with pyNextGen				:0.1:	
+
+    - [ ] Create a image recipe with pyNextGen in
+
+
 
 ** Metadata
 ** Data
