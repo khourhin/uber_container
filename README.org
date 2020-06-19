@@ -6,7 +6,7 @@
    for the analysis
 
 ** Starting with Singularity
-*** TODO Image with pyNextGen				:0.1:	
+*** TODO [#B] Image with pyNextGen				:0.1:	
 
     - [ ] Create a image recipe with pyNextGen in
 
